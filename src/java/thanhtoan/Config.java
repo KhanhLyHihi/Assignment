@@ -26,7 +26,7 @@ public class Config {
     public static String vnp_PayUrl = "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html";
     public static String vnp_Returnurl = "http://localhost:8080/reid/home";
     public static String vnp_TmnCode = "GIO4XNT7";
-    public static String vnp_HashSecret = "TKIKRUHWGAFDCNYDCYEEWWCGECDROYDP";
+    public static String vnp_HashSecret = "lEPLLShdlAQTJb8IhlBo0fQNSNCVfc6XkybXuLUlWzokeP7O8LNAxlfNpHA038fL";
     public static String vnp_ApiUrl = "https://sandbox.vnpayment.vn/merchant_webapi/api/transaction";
 
     public static String md5(String message) {

@@ -12,7 +12,7 @@
                         <div class="footer_contact">
                             <p>Address: Số nhà 232, đường Trần Hưng Đạo , phường Thanh Bình, thành phố Ninh Bình</p>
                             <p>Phone: <a href="tel:+(+84)0941384237">(+84) 0399999673</a> </p>
-                            <p>Email: <a href="mailto:lynkhe173542@fpt.edu.vn">quanhmhe173490@fpt.edu.vn</a></p>
+                            <p>Email: <a href="mailto:lynkhe173542@fpt.edu.vn">lynkhe173542@fpt.edu.vn</a></p>
                             <ul>
                                 <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#" title="google-plus"><i class="fa fa-google-plus"></i></a></li>
